@@ -1,5 +1,5 @@
 # Algorithm-Improvement
-This is a collection of improvements on general algorithms created by Chen Dong from Boston University
+This is a collection of improvements on general algorithms created by Chen Dong from CS330, Introduction to Analysis of Algorithms, from Boston University.
 
 # How to test?
 Generally, clone everything, and just type "python name.py graph_file output_file" where name is a python file you want to test with, and same for grpah and output file.
